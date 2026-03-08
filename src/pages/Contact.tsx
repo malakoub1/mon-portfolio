@@ -13,7 +13,7 @@ export default function Contact() {
       </Helmet>
 
       {/* Hero */}
-      <div className="rounded-[2rem] border bg-gradient-to-r from-pink-100 via-violet-100 to-blue-100 p-8 shadow-sm">
+      <div className="rounded-[2rem] border bg-gradient-to-r from-pink-100 via-violet-100 to-blue-100 p-8 shadow-sm dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
         <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
           Contact
         </h1>

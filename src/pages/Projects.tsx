@@ -12,12 +12,12 @@ export default function Projects() {
         />
       </Helmet>
 
-      <div className="rounded-[2rem] border bg-gradient-to-r from-pink-100 via-violet-100 to-blue-100 p-8 shadow-sm">
+      <div className="rounded-[2rem] border bg-gradient-to-r from-pink-100 via-violet-100 to-blue-100 p-8 shadow-sm dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
         <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
           Projets
         </h1>
 
-        <p className="mt-4 max-w-2xl text-lg text-slate-700">
+        <p className="mt-4 max-w-3xl text-lg leading-8 text-slate-700 dark:text-slate-300">
           Voici quelques projets que j’ai réalisés dans le cadre de mes études
           et de ma pratique du développement logiciel.
         </p>
