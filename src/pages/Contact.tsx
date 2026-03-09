@@ -18,7 +18,7 @@ export default function Contact() {
           Contact
         </h1>
 
-        <p className="mt-4 max-w-2xl text-lg leading-8 text-slate-700">
+        <p className="mt-4 max-w-3xl text-lg leading-8 text-slate-700 dark:text-slate-300">
           Je suis ouverte aux opportunités de stage, aux collaborations et aux
           projets en développement web et logiciel. N’hésitez pas à me contacter
           par email ou via mes réseaux professionnels.
